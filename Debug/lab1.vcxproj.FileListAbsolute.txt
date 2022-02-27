@@ -1,0 +1,4 @@
+D:\СП\lab1\Debug\lab1.exe
+D:\СП\lab1\Debug\lab1.pdb
+F:\СП\lab1\Debug\lab1.exe
+F:\СП\lab1\Debug\lab1.pdb
