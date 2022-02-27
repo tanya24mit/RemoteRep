@@ -116,6 +116,7 @@ int main(int argc, char* argv[]) {
 
     DWORD dwStart = GetTickCount();
 
+    // Проверить количество аргументов
     if (argc != 3) {
         cout << "Wrong arguments number" << endl;
         return 1;
